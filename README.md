@@ -1,5 +1,6 @@
 # Minimalistcord
 >NOTICE: We're not really working on this. Issues will probably be left unhandled.
+
 A material-design inspired theme for BetterDiscord.
 
 ![alt text](/example.png "Theme in action")
